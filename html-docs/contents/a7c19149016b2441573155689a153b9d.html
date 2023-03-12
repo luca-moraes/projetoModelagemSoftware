@@ -61,11 +61,11 @@
           
             <p>Fluxo principal:</p>
 
-<ol><li><p>Usuário acessa a área de novas ordens de compra de ações.</p></li><li><p>Usuário escolhe a ação desejada para efetuar uma nova ordem de compra, podendo utilizar filtros para as opções exibidas.</p></li><li><p>Usuário escolhe o tipo de ordem de compra, conforme os casos de uso extends.</p></li><li><p>Usuário preenche e confirma as informações da OC.</p></li><li><p>Ordem de compra é postada pela corretora.</p></li></ol>
+<ol><li><p>Usuário acessa a área de novas ordens de compra de ações.</p></li><li><p>Usuário escolhe a ação desejada para efetuar uma nova ordem de compra, podendo utilizar filtros para as opções exibidas.</p></li><li><p>Usuário escolhe o tipo de ordem de compra, conforme os casos de uso extends.</p></li><li><p>Usuário preenche e confirma as informações da OC.</p></li><li><p>Ordem de compra é postada pela corretora ao enviar para a B3.</p></li><li><p>Após o Include caso de uso &quot;Postar ordem de compra&quot;,  a B3 retorna a confirmação de que a ordem de compra foi postada.</p></li></ol>
 
 <p>Fluxo alternativo:</p>
 
-<ol><li><p>Include caso de uso &quot;Saldo insuficiente&quot;, ele recebe um aviso para depositar um valor maior em sua conta.</p></li><li><p>Include caso de uso &quot;Saldo insuficiente&quot;,  a operação não é realizada por erro na confirmação do saldo,  o usuário é avisado para tentar novamente mais tarde.</p></li></ol>
+<ol><li><p>Include caso de uso &quot;Saldo insuficiente&quot;, ele recebe um aviso para depositar um valor maior em sua conta.</p></li><li><p>Include caso de uso &quot;Saldo insuficiente&quot;,  a operação não é realizada por erro na confirmação do saldo,  o usuário é avisado para tentar novamente mais tarde.</p></li><li><p>Include caso de uso &quot;Postar ordem de compra&quot; retorna que houve um erro de comunicação na postagem da ordem, portanto o cliente deve tentar novamente mais tarde.</p></li></ol>
 
 <p>Caso de uso referentes aos requisitos :</p>
 
@@ -145,6 +145,15 @@
 
         
         
+<section class="element-list">
+    <h3>Included Use Cases</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='87b7bb29d1602ad08408e0eafb583ef4.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Postar ordem de compra</a></li>
+        
+    </ul>
+</section>
+
 
 
         
@@ -385,6 +394,10 @@
         
         <li><a href='9b231ae73e80d4464c4ea765e3269dec.html'><span class='node-icon staruml-icon icon-UMLExtend'></span>(Enviar ordem de compra→OC automática fracionada ou lote)</a></li>
         
+        <li><a href='27db59ec5ab14eca176cfa4a0913dd47.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Enviar ordem de compra→Postar ordem de compra)</a></li>
+        
+        <li><a href='cde7a12bdbce381a3d97d805e8b86d21.html'><span class='node-icon staruml-icon icon-UMLExtend'></span>(Enviar ordem de compra→Negócios rápidos em carteira)</a></li>
+        
     </ul>
 </section>
 
@@ -409,6 +422,10 @@
         <li><a href='a64b1c930a52fea55f3d0e0f7c9adaa4.html'><span class='node-icon staruml-icon icon-UMLExtend'></span>(Enviar ordem de compra→OC por valor financeiro)</a></li>
         
         <li><a href='9b231ae73e80d4464c4ea765e3269dec.html'><span class='node-icon staruml-icon icon-UMLExtend'></span>(Enviar ordem de compra→OC automática fracionada ou lote)</a></li>
+        
+        <li><a href='27db59ec5ab14eca176cfa4a0913dd47.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Enviar ordem de compra→Postar ordem de compra)</a></li>
+        
+        <li><a href='cde7a12bdbce381a3d97d805e8b86d21.html'><span class='node-icon staruml-icon icon-UMLExtend'></span>(Enviar ordem de compra→Negócios rápidos em carteira)</a></li>
         
     </ul>
 </section>

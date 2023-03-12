@@ -61,15 +61,15 @@
           
             <p>Fluxo principal:</p>
 
-<ol><li><p>Usuário informa as credenciais de acesso.</p></li><li><p>Caso as informações estejam corretas, o login é liberado.</p></li></ol>
+<ol><li><p>Usuário informa as credenciais de acesso.</p></li><li><p>Caso as informações estejam corretas, o login é liberado e data e hora do login anterior é exibida.</p></li></ol>
 
 <p>Fluxo alternativo:</p>
 
-<ol><li><p>As informações estão erradas e o login é negado.</p></li><li><p>Caso o login seja negado &#39;n&#39; vezes, o acesso daquele usuário é bloqueado temporariamente.</p></li></ol>
+<ol><li><p>As informações estão erradas e o login é negado.</p></li><li><p>Caso o login seja negado &#39;n&#39; vezes, o acesso daquele usuário é bloqueado temporariamente e o include caso de uso &quot;Aviso de bloqueio&quot; é ativado.</p></li></ol>
 
 <p>Caso de uso referentes aos requisitos :</p>
 
-<ul><li>2 e 3.</li></ul>
+<ul><li>2, 3 e 46.</li></ul>
           
         </div>
       </section>
@@ -145,6 +145,15 @@
 
         
         
+<section class="element-list">
+    <h3>Included Use Cases</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='22225629d1bcd21cbb7e8c8558d14054.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Aviso de bloqueio</a></li>
+        
+    </ul>
+</section>
+
 
 
         
@@ -375,6 +384,8 @@
         
         <li><a href='631e58b0ae67222cc91bd140b498ce8e.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Login—Usuário)</a></li>
         
+        <li><a href='0cb34114ca5257e94bc1e561ee59a10b.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Login→Aviso de bloqueio)</a></li>
+        
     </ul>
 </section>
 
@@ -389,6 +400,8 @@
     <ul class="nav nav-list">
         
         <li><a href='631e58b0ae67222cc91bd140b498ce8e.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Login—Usuário)</a></li>
+        
+        <li><a href='0cb34114ca5257e94bc1e561ee59a10b.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Login→Aviso de bloqueio)</a></li>
         
     </ul>
 </section>

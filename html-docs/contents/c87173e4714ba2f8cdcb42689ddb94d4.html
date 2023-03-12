@@ -61,15 +61,15 @@
           
             <p>Fluxo principal:</p>
 
-<ol><li><p>Usuário acessa a área de ordens de venda postadas e entra na opção de ordens não efetuadas.</p></li><li><p>Usuário escolhe a ordem de venda desejada, podendo utilizar filtros para as opções exibidas.</p></li><li><p>Usuário escolhe e confirma a opção de modificar OV.</p></li><li><p>Usuário ajustar as informações da OV e confirma modificação.</p></li><li><p>Corretora modifica as informações da OV nas ordens postadas.</p></li></ol>
+<ol><li><p>Usuário acessa a área de ordens de venda postadas e entra na opção de ordens não efetuadas.</p></li><li><p>Usuário escolhe a ordem de venda desejada, podendo utilizar filtros para as opções exibidas e visualizar apenas OV relacionadas a ação selecionada.</p></li><li><p>Usuário escolhe e confirma a opção de modificar OV.</p></li><li><p>Usuário ajustar as informações da OV e confirma modificação.</p></li><li><p>Corretora envia as modificações da OV para a B3, que confirma a mudança.</p></li></ol>
 
 <p>Fluxo alternativo:</p>
 
-<ol><li>A modificação não é realizada pois a ordem acabou de ser confirmada como efetuada pela empresa no momento da alteração, o usuário é avisado que a ordem não pode ser modificada.</li></ol>
+<ol><li><p>Include caso de uso &quot;Operação já efetuada&quot;, o usuário é avisado que a ordem não pode ser cancelada.</p></li><li><p>A operação não é efetuada por erro no Include caso de uso &quot;Operação já efetuada&quot;, o cliente é informado do erro e solicita-se que ele tente realizar a operação novamente mais tarde.</p></li></ol>
 
 <p>Caso de uso referentes aos requisitos :</p>
 
-<ul><li>19.</li></ul>
+<ul><li>19 e 24.</li></ul>
           
         </div>
       </section>
@@ -147,6 +147,17 @@
 
         
         
+<section class="element-list">
+    <h3>Included Use Cases</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='1b1c7f666b69872e64cd02148e77299f.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Checar status de ordem</a></li>
+        
+        <li><a href='cdd1b74ed70f30ba69e47b8afa054b0e.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Operação já efetuada</a></li>
+        
+    </ul>
+</section>
+
 
 
         
@@ -379,6 +390,10 @@
         
         <li><a href='880e3540af2ab8971b84d5fbf7f18464.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Modificar ordem de venda—Usuário)</a></li>
         
+        <li><a href='912e868a78398688f098a5933ba97392.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Modificar ordem de venda→Checar status de ordem)</a></li>
+        
+        <li><a href='bd1d40d0a7c7cca7367217ae94e9fdeb.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Modificar ordem de venda→Operação já efetuada)</a></li>
+        
     </ul>
 </section>
 
@@ -395,6 +410,10 @@
         <li><a href='7ebc1a60f8919806a7e11518cf66e9b1.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Modificar ordem de venda—Usuário)</a></li>
         
         <li><a href='880e3540af2ab8971b84d5fbf7f18464.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Modificar ordem de venda—Usuário)</a></li>
+        
+        <li><a href='912e868a78398688f098a5933ba97392.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Modificar ordem de venda→Checar status de ordem)</a></li>
+        
+        <li><a href='bd1d40d0a7c7cca7367217ae94e9fdeb.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Modificar ordem de venda→Operação já efetuada)</a></li>
         
     </ul>
 </section>

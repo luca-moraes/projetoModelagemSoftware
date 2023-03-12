@@ -61,15 +61,15 @@
           
             <p>Fluxo principal:</p>
 
-<ol><li><p>Usuário acessa a área de ordens de venda postadas.</p></li><li><p>Usuário escolhe a ordem de venda  desejada, podendo utilizar filtros para as opções exibidas.</p></li><li><p>Usuário escolhe e confirma a opção de cancelamento de OV.</p></li><li><p>Corretora retira OV das ordens postadas.</p></li></ol>
+<ol><li><p>Usuário acessa a área de ordens de venda postadas.</p></li><li><p>Usuário escolhe a ordem de venda desejada, podendo utilizar filtros para as opções exibidas e visualizar apenas OV relacionadas a ação selecionada.</p></li><li><p>Usuário escolhe e confirma a opção de cancelamento de OV.</p></li><li><p>Corretora envia pedido de cancelamento para B3, que confirma a operação.</p></li></ol>
 
 <p>Fluxo alternativo:</p>
 
-<ol><li>O cancelamento não é efetuado pois a ordem já foi confirmada como realizada pela empresa, usuário é avisado que a ordem não pode ser cancelada.</li></ol>
+<ol><li><p>Include caso de uso &quot;Operação já efetuada&quot;, o usuário é avisado que a ordem não pode ser cancelada.</p></li><li><p>A operação não é efetuada por erro no Include caso de uso &quot;Operação já efetuada&quot;, o cliente é informado do erro e solicita-se que ele tente realizar a operação novamente mais tarde.</p></li></ol>
 
 <p>Caso de uso referentes aos requisitos :</p>
 
-<ul><li>18.</li></ul>
+<ul><li>18 e 24.</li></ul>
           
         </div>
       </section>
@@ -149,6 +149,17 @@
 
         
         
+<section class="element-list">
+    <h3>Included Use Cases</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='1b1c7f666b69872e64cd02148e77299f.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Checar status de ordem</a></li>
+        
+        <li><a href='cdd1b74ed70f30ba69e47b8afa054b0e.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Operação já efetuada</a></li>
+        
+    </ul>
+</section>
+
 
 
         
@@ -383,6 +394,10 @@
         
         <li><a href='e728d745759509f38d8842164a970943.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Cancelar ordem de venda—Usuário)</a></li>
         
+        <li><a href='8e43bb422b50be130e95d4a2012f3e1b.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Cancelar ordem de venda→Checar status de ordem)</a></li>
+        
+        <li><a href='004cd620b13f327477aead4084bc34f4.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Cancelar ordem de venda→Operação já efetuada)</a></li>
+        
     </ul>
 </section>
 
@@ -401,6 +416,10 @@
         <li><a href='19ffceb9d38ecf704d7ec1a10221c053.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Cancelar ordem de venda—Usuário)</a></li>
         
         <li><a href='e728d745759509f38d8842164a970943.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Cancelar ordem de venda—Usuário)</a></li>
+        
+        <li><a href='8e43bb422b50be130e95d4a2012f3e1b.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Cancelar ordem de venda→Checar status de ordem)</a></li>
+        
+        <li><a href='004cd620b13f327477aead4084bc34f4.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Cancelar ordem de venda→Operação já efetuada)</a></li>
         
     </ul>
 </section>

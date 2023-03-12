@@ -61,11 +61,11 @@
           
             <p>Fluxo principal:</p>
 
-<ol><li><p>Usuário acessa a área de novas ordens de venda de ações.</p></li><li><p>Usuário escolhe a ação desejada para efetuar uma nova ordem de venda, podendo utilizar filtros para as opções exibidas.</p></li><li><p>Usuário escolhe o tipo de ordem de venda, sendo eles: OV com gatilho, OV a mercado, OV por quantidade de ações e OV por valor financeiro.</p></li><li><p>Usuário preenche e confirma as informações da OV.</p></li><li><p>Ordem de venda é postada pela corretora.</p></li></ol>
+<ol><li><p>Usuário acessa a área de novas ordens de venda de ações.</p></li><li><p>Usuário escolhe a ação desejada para efetuar uma nova ordem de venda, podendo utilizar filtros para as opções exibidas.</p></li><li><p>Usuário escolhe o tipo de ordem de venda, conforme os casos de uso extends.</p></li><li><p>Usuário preenche e confirma as informações da OV.</p></li><li><p>Ordem de venda é postada pela corretora.</p></li></ol>
 
 <p>Fluxo alternativo:</p>
 
-<ol><li>Ordem de venda não é efetuada pois, seu valor está abaixo da cota mínima de venda exigida pela corretora, usuário é avisado que necessita vender uma quantidade maior de ações para postar aquela ordem.</li></ol>
+<ol><li>Include caso de uso &quot;Postar ordem de venda&quot; retorna que houve um erro de comunicação na postagem da ordem, portanto o cliente deve tentar novamente mais tarde.</li></ol>
 
 <p>Caso de uso referentes aos requisitos :</p>
 
@@ -147,6 +147,15 @@
 
         
         
+<section class="element-list">
+    <h3>Included Use Cases</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='0afe7a49dbf944a9dd7dcd91d9853272.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Postar ordem de venda</a></li>
+        
+    </ul>
+</section>
+
 
 
         
@@ -389,6 +398,8 @@
         
         <li><a href='0a14ae5a6b79f5c98beae881df00f880.html'><span class='node-icon staruml-icon icon-UMLExtend'></span>(Enviar ordem de venda→OV automática fracionada ou lote)</a></li>
         
+        <li><a href='14b37c33172b217f2e5884897bac1eac.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Enviar ordem de venda→Postar ordem de venda)</a></li>
+        
     </ul>
 </section>
 
@@ -415,6 +426,8 @@
         <li><a href='66883a26f5ebce14f26d5df593031e7b.html'><span class='node-icon staruml-icon icon-UMLExtend'></span>(Enviar ordem de venda→OV por valor financeiro)</a></li>
         
         <li><a href='0a14ae5a6b79f5c98beae881df00f880.html'><span class='node-icon staruml-icon icon-UMLExtend'></span>(Enviar ordem de venda→OV automática fracionada ou lote)</a></li>
+        
+        <li><a href='14b37c33172b217f2e5884897bac1eac.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Enviar ordem de venda→Postar ordem de venda)</a></li>
         
     </ul>
 </section>
