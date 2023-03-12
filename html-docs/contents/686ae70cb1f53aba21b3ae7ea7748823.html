@@ -11,6 +11,7 @@
 <script type="text/javascript" src="../assets/js/jquery-2.1.0.min.js"></script>
 <script type="text/javascript" src="../assets/js/bootstrap.js"></script>
 <script type="text/javascript" src="../assets/js/jquery.bonsai.js"></script>
+<script type="text/javascript" src="../assets/js/imageMapResizer.min.js"></script>
 
   </head>
   <body>
@@ -60,13 +61,13 @@
           
             <p>Fluxo principal:</p>
 
-<ol><li><p>Usuário registra suas informações pessoais.</p></li><li><p>Usuário envia documentação solicitada pela corretora.</p></li><li><p>Aguarda cadastro  ser aprovado pelo gerente da corretora.</p></li><li><p>Após aprovação cadastro cadastro é liberado e usuário é notificado do processo.</p></li></ol>
+<ol><li><p>Usuário registra suas informações pessoais.</p></li><li><p>Usuário envia documentação solicitada pela corretora.</p></li><li><p>Aguarda cadastro  ser aprovado pelo gerente da corretora, Include caso de uso &quot;Validar Cadastro&quot;.</p></li><li><p>Após aprovação cadastro cadastro é liberado e usuário é notificado do processo.</p></li></ol>
 
 <p>Fluxo alternativo:</p>
 
-<ol><li>O cadastro foi negado, portanto, usuário deve corrigir as informações solicitadas para submeter uma tentativa de cadastro novamente ou cancelar a solicitação de cadastro.</li></ol>
+<ol><li>Include caso de uso &quot;Validar Cadastro&quot;, o cadastro foi negado, portanto, usuário deve corrigir as informações solicitadas para submeter uma tentativa de cadastro novamente ou cancelar a solicitação de cadastro.</li></ol>
 
-<p>Requisitos referentes ao caso de uso:</p>
+<p>Caso de uso referentes aos requisitos :</p>
 
 <ul><li>1 e 4.</li></ul>
           
@@ -374,6 +375,8 @@
         
         <li><a href='3d56c1259119928713af520d00aecea5.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Cadastro—Usuário)</a></li>
         
+        <li><a href='7374ca0b8fba74ee2e9b641a9fa33731.html'><span class='node-icon staruml-icon icon-UMLInclude'></span>(Validar Cadastro→Cadastro)</a></li>
+        
     </ul>
 </section>
 
@@ -394,6 +397,10 @@
 
 
 
+      <!-- Image Map Resizer (https://github.com/davidjbradshaw/image-map-resizer) -->
+      <script>
+      imageMapResize();
+      </script>
     </div>
   </body>
 </html>
