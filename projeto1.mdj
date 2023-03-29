@@ -48,7 +48,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 864,
-											"top": -272,
+											"top": -288,
 											"height": 13
 										},
 										{
@@ -59,10 +59,10 @@
 											},
 											"font": "Arial;13;1",
 											"left": 133,
-											"top": 47,
+											"top": 39,
 											"width": 2591,
 											"height": 13,
-											"text": "Diagrama UseCases"
+											"text": "Diagrama Classes"
 										},
 										{
 											"_type": "LabelView",
@@ -73,7 +73,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 864,
-											"top": -272,
+											"top": -288,
 											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
@@ -87,14 +87,14 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 864,
-											"top": -272,
+											"top": -288,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 128,
-									"top": 40,
+									"top": 32,
 									"width": 2601,
 									"height": 25,
 									"stereotypeLabel": {
@@ -113,7 +113,7 @@
 							],
 							"font": "Arial;13;0",
 							"left": 128,
-							"top": 40,
+							"top": 32,
 							"width": 2601,
 							"height": 1545,
 							"nameCompartment": {
@@ -19047,7 +19047,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "Diagrama UseCases",
+					"name": "Diagrama Classes",
 					"documentation": "Fluxo principal:\n\n1. Usuário entra na tela de carteira de ações, no topo das abas de opções de visualização, ele utiliza a opção de criar grupo de ações.\n\n2. Uma tela aparece com um campo para preencher as informações como o nome do grupo.\n\n3. O usuário preenche as informações e salva o novo grupo criado.\n\nFluxo alternativo:\n\n1. O grupo não é criado pois o nome inserido já está em uso, o cliente é avisado para alterar o nome do grupo.\n\nCaso de uso referentes aos requisitos :\n\n- 28."
 				},
 				{
@@ -31014,6 +31014,107 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGHL0tfZQjweEs="
 							}
+						},
+						{
+							"_type": "UMLUseCaseSubjectView",
+							"_id": "AAAAAAGHL1CjbvPZOPU=",
+							"_parent": {
+								"$ref": "AAAAAAGG59M3tLbAQ5c="
+							},
+							"model": {
+								"$ref": "AAAAAAGGn2kz2KS9LR0="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGHL1CjbvPaOIE=",
+									"_parent": {
+										"$ref": "AAAAAAGHL1CjbvPZOPU="
+									},
+									"model": {
+										"$ref": "AAAAAAGGn2kz2KS9LR0="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGHL1Cjb/PbnWE=",
+											"_parent": {
+												"$ref": "AAAAAAGHL1CjbvPaOIE="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 1899,
+											"top": -219,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGHL1Cjb/PcNB4=",
+											"_parent": {
+												"$ref": "AAAAAAGHL1CjbvPaOIE="
+											},
+											"font": "Arial;13;1",
+											"left": 565,
+											"top": 95,
+											"width": 2319,
+											"height": 13,
+											"text": "Diagrama Classes"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGHL1Cjb/PdDn0=",
+											"_parent": {
+												"$ref": "AAAAAAGHL1CjbvPaOIE="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 1899,
+											"top": -219,
+											"width": 73.67724609375,
+											"height": 13,
+											"text": "(from Model)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGHL1Cjb/PeCuo=",
+											"_parent": {
+												"$ref": "AAAAAAGHL1CjbvPaOIE="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 1899,
+											"top": -219,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 560,
+									"top": 88,
+									"width": 2329,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGHL1Cjb/PbnWE="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGHL1Cjb/PcNB4="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGHL1Cjb/PdDn0="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGHL1Cjb/PeCuo="
+									}
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 560,
+							"top": 88,
+							"width": 2329,
+							"height": 1457,
+							"nameCompartment": {
+								"$ref": "AAAAAAGHL1CjbvPaOIE="
+							}
 						}
 					]
 				},
@@ -41007,7 +41108,7 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 634,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -41029,7 +41130,7 @@
 									"visible": null,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 619,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -41051,7 +41152,7 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 664,
 									"height": 12,
 									"alpha": -1.5707963267948966,
