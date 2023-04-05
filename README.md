@@ -6,8 +6,8 @@ https://luca-moraes.github.io/projetoModelagem/html-docs/index.html
 
 ### Visualização prévia do diagrama de casos de uso:
 
-![Diagrama de caso de uso](https://github.com/luca-moraes/projetoModelagem/blob/main/UseCaseDiagram1.png)
+![Diagrama de caso de uso](https://github.com/luca-moraes/projetoModelagem/blob/main/images/UseCaseDiagram1.png)
 
 ### Visualização prévia do diagrama de classes:
 
-![Diagrama de classes](https://github.com/luca-moraes/projetoModelagem/blob/main/ClassDiagram1.png)
+![Diagrama de classes](https://github.com/luca-moraes/projetoModelagem/blob/main/images/ClassDiagram1.png)
