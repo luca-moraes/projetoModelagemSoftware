@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>cadastro(): bool</title>
+    <title></title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../assets/css/bootstrap.css">
 <link rel="stylesheet" href="../assets/css/jquery.bonsai.css">
@@ -18,14 +18,14 @@
 
       <!-- Name Title -->
 
-      <h1>cadastro(): bool</h1>
+      <h1>(unnamed)</h1>
 
       <!-- Type and Stereotype -->
 
       <section style="margin-top: .5em;">
         <span class="alert alert-info">
-          <span class="node-icon staruml-icon icon-UMLMessage"></span>
-          UMLMessage
+          <span class="node-icon staruml-icon icon-UMLTransition"></span>
+          UMLTransition
         </span>
         
       </section>
@@ -43,13 +43,16 @@
           <span class="label label-info"><a href='9969dad9dece5c91173a6750c183ca06.html'><span class='node-icon staruml-icon icon-UMLModel'></span>Model</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='686ae70cb1f53aba21b3ae7ea7748823.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Cadastro</a></span>
+          <span class="label label-info"><a href='6dc55c3334e63f8aeb7cdc87a8c04f61.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Cliente</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='3e967bf63d3179433fb9c49ca9944a3e.html'><span class='node-icon staruml-icon icon-UMLInteraction'></span>Interaction2</a></span>
+          <span class="label label-info"><a href='fe78103a359a90f2bef7f40c48bd76df.html'><span class='node-icon staruml-icon icon-UMLStateMachine'></span>StateMachine1</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='f7480940e7e6b68c63b929a159d6f3c4.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>cadastro(): bool (objetoMartel→objetoMartel)</a></span>
+          <span class="label label-info"><a href='0e66c0a702d6c0c0265386330e91ddb6.html'><span class='node-icon staruml-icon icon-UMLRegion'></span>(Region)</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='bdcd6228bcb6f61c6185941e6a7d3f63.html'><span class='node-icon staruml-icon icon-UMLTransition'></span>(Cliente não cadastrado→Cadastro submetido)</a></span>
         
       </section>
 
@@ -83,13 +86,13 @@
             <td width="50%">
               <h3>Source</h3>
               <ul class="nav nav-list">
-                <li><a href='5d9257e76035abc4f33bfa3f863731f2.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>objetoMartel: Cliente</a></a></li>
+                <li><a href='6ddd0381f77ab39736d5df488499b28a.html'><span class='node-icon staruml-icon icon-UMLState'></span>Cliente não cadastrado</a></a></li>
               </ul>
             </td>
             <td width="50%">
               <h3>Target</h3>
               <ul class="nav nav-list">
-                <li><a href='5d9257e76035abc4f33bfa3f863731f2.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>objetoMartel: Cliente</a></a></li>
+                <li><a href='0231f521e2d3aea987ff4edbbf4d25d4.html'><span class='node-icon staruml-icon icon-UMLState'></span>Cadastro submetido</a></a></li>
               </ul>
             </td>
           </tr>
@@ -197,6 +200,23 @@
       <!-- Transition -->
 
       
+        
+        
+<section class="element-list">
+    <h3>Triggers</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='0607013515339c9476a411208a1aaca5.html'><span class='node-icon staruml-icon icon-UMLEvent'></span>(Event)</a></li>
+        
+    </ul>
+</section>
+
+
+
+        
+        
+
+      
 
       <!-- Data Model (ERD) -->
 
@@ -237,7 +257,7 @@
     
     <tr>
         <td>name</td>
-        <td>cadastro(): bool</td>
+        <td></td>
     </tr>
     
     
@@ -252,7 +272,7 @@
     
     <tr>
         <td>source</td>
-        <td><a href='5d9257e76035abc4f33bfa3f863731f2.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>objetoMartel: Cliente</a></td>
+        <td><a href='6ddd0381f77ab39736d5df488499b28a.html'><span class='node-icon staruml-icon icon-UMLState'></span>Cliente não cadastrado</a></td>
     </tr>
     
     
@@ -261,7 +281,7 @@
     
     <tr>
         <td>target</td>
-        <td><a href='5d9257e76035abc4f33bfa3f863731f2.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>objetoMartel: Cliente</a></td>
+        <td><a href='0231f521e2d3aea987ff4edbbf4d25d4.html'><span class='node-icon staruml-icon icon-UMLState'></span>Cadastro submetido</a></td>
     </tr>
     
     
@@ -287,53 +307,8 @@
     
     
     <tr>
-        <td>messageSort</td>
-        <td>synchCall</td>
-    </tr>
-    
-    
-    
-    
-    
-    <tr>
-        <td>signature</td>
-        <td><span class='label label-info'>null</span></td>
-    </tr>
-    
-    
-    
-    
-    
-    <tr>
-        <td>connector</td>
-        <td><span class='label label-info'>null</span></td>
-    </tr>
-    
-    
-    
-    
-    
-    <tr>
-        <td>sequenceNumber</td>
-        <td></td>
-    </tr>
-    
-    
-    
-    
-    
-    <tr>
-        <td>arguments</td>
-        <td></td>
-    </tr>
-    
-    
-    
-    
-    
-    <tr>
-        <td>assignmentTarget</td>
-        <td></td>
+        <td>kind</td>
+        <td>external</td>
     </tr>
     
     
@@ -342,26 +317,12 @@
     
     <tr>
         <td>guard</td>
-        <td></td>
+        <td>Cadastro é submetido</td>
     </tr>
     
     
     
     
-    
-    <tr>
-        <td>iteration</td>
-        <td></td>
-    </tr>
-    
-    
-    
-    
-    
-    <tr>
-        <td>isConcurrentIteration</td>
-        <td><span class='label label-info'>false</span></td>
-    </tr>
     
     
     

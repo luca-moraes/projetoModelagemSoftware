@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>objetoMagno</title>
+    <title></title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../assets/css/bootstrap.css">
 <link rel="stylesheet" href="../assets/css/jquery.bonsai.css">
@@ -18,14 +18,14 @@
 
       <!-- Name Title -->
 
-      <h1>objetoMagno</h1>
+      <h1>(unnamed)</h1>
 
       <!-- Type and Stereotype -->
 
       <section style="margin-top: .5em;">
         <span class="alert alert-info">
-          <span class="node-icon staruml-icon icon-UMLLifeline"></span>
-          UMLLifeline
+          <span class="node-icon staruml-icon icon-UMLTransition"></span>
+          UMLTransition
         </span>
         
       </section>
@@ -43,13 +43,16 @@
           <span class="label label-info"><a href='9969dad9dece5c91173a6750c183ca06.html'><span class='node-icon staruml-icon icon-UMLModel'></span>Model</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='686ae70cb1f53aba21b3ae7ea7748823.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Cadastro</a></span>
+          <span class="label label-info"><a href='6dc55c3334e63f8aeb7cdc87a8c04f61.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Cliente</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='3e967bf63d3179433fb9c49ca9944a3e.html'><span class='node-icon staruml-icon icon-UMLInteraction'></span>Interaction2</a></span>
+          <span class="label label-info"><a href='fe78103a359a90f2bef7f40c48bd76df.html'><span class='node-icon staruml-icon icon-UMLStateMachine'></span>StateMachine1</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='257468d62327b25bc78c5981e682577f.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>objetoMagno: GerenteCorretora</a></span>
+          <span class="label label-info"><a href='0e66c0a702d6c0c0265386330e91ddb6.html'><span class='node-icon staruml-icon icon-UMLRegion'></span>(Region)</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='246290d577360796f844513f1a5137af.html'><span class='node-icon staruml-icon icon-UMLTransition'></span>(Login será verificado→Login será verificado)</a></span>
         
       </section>
 
@@ -76,6 +79,25 @@
 
       <!-- Directed Relationship -->
 
+      
+      <section class="element-list">
+        <table width="100%">
+          <tr>
+            <td width="50%">
+              <h3>Source</h3>
+              <ul class="nav nav-list">
+                <li><a href='2eda7b45fdd53a9f12bd7223ea8aed2b.html'><span class='node-icon staruml-icon icon-UMLState'></span>Login será verificado</a></a></li>
+              </ul>
+            </td>
+            <td width="50%">
+              <h3>Target</h3>
+              <ul class="nav nav-list">
+                <li><a href='2eda7b45fdd53a9f12bd7223ea8aed2b.html'><span class='node-icon staruml-icon icon-UMLState'></span>Login será verificado</a></a></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </section>
       
 
       <!-- Undirected Relationship -->
@@ -178,6 +200,14 @@
       <!-- Transition -->
 
       
+        
+        
+
+
+        
+        
+
+      
 
       <!-- Data Model (ERD) -->
 
@@ -218,7 +248,7 @@
     
     <tr>
         <td>name</td>
-        <td>objetoMagno</td>
+        <td></td>
     </tr>
     
     
@@ -226,6 +256,24 @@
     
     
     
+    
+    
+    
+    
+    
+    <tr>
+        <td>source</td>
+        <td><a href='2eda7b45fdd53a9f12bd7223ea8aed2b.html'><span class='node-icon staruml-icon icon-UMLState'></span>Login será verificado</a></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>target</td>
+        <td><a href='2eda7b45fdd53a9f12bd7223ea8aed2b.html'><span class='node-icon staruml-icon icon-UMLState'></span>Login será verificado</a></td>
+    </tr>
     
     
     
@@ -249,11 +297,9 @@
     
     
     
-    
-    
     <tr>
-        <td>selector</td>
-        <td></td>
+        <td>kind</td>
+        <td>external</td>
     </tr>
     
     
@@ -261,18 +307,13 @@
     
     
     <tr>
-        <td>represent</td>
-        <td><a href='9cd05ee74a7704768fbf4a8004c60260.html'><span class='node-icon staruml-icon icon-UMLAttribute'></span>Role9</a></td>
+        <td>guard</td>
+        <td>Login inválido</td>
     </tr>
     
     
     
     
-    
-    <tr>
-        <td>isMultiInstance</td>
-        <td><span class='label label-info'>false</span></td>
-    </tr>
     
     
     
@@ -287,40 +328,11 @@
       <!-- Constraints, Dependencies, Dependants -->
 
       
-        
-        
-
-
-        
-        
-
-
-        
-        
-
-      
 
       <!-- Relationships -->
 
       
       
-<section class="element-list">
-    <h3>Relationships</h3>
-    <ul class="nav nav-list">
-        
-        <li><a href='34803d808fda1dc2b3c7603a5194104b.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Cadastro aguarda validação (objetoMartel→objetoMagno)</a></li>
-        
-        <li><a href='4402b8266c7dc46f724966ab6d849715.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Gerente da corretora valida cadastro (Magno→objetoMagno)</a></li>
-        
-        <li><a href='b8c6c422abd308009c594e15305b685a.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>validarCadastro(): bool (objetoMagno→objetoMagno)</a></li>
-        
-        <li><a href='d999d866790750ce5f232ef7569ca85c.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Cadastro é válidado pelo gerente (objetoMagno→objetoMartel)</a></li>
-        
-        <li><a href='8a8cffd17846eb86475a3da9097ed8ab.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Cadastro é reprovado pelo cliente (objetoMagno→objetoMartel)</a></li>
-        
-    </ul>
-</section>
-
 
 
       <!-- Owned Elements -->

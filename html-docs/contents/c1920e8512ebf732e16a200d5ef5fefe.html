@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>UseCase1</title>
+    <title></title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../assets/css/bootstrap.css">
 <link rel="stylesheet" href="../assets/css/jquery.bonsai.css">
@@ -18,14 +18,14 @@
 
       <!-- Name Title -->
 
-      <h1>UseCase1</h1>
+      <h1>(unnamed)</h1>
 
       <!-- Type and Stereotype -->
 
       <section style="margin-top: .5em;">
         <span class="alert alert-info">
-          <span class="node-icon staruml-icon icon-UMLUseCase"></span>
-          UMLUseCase
+          <span class="node-icon staruml-icon icon-UMLTransition"></span>
+          UMLTransition
         </span>
         
       </section>
@@ -43,7 +43,16 @@
           <span class="label label-info"><a href='9969dad9dece5c91173a6750c183ca06.html'><span class='node-icon staruml-icon icon-UMLModel'></span>Model</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='e863957ec419a71ba07112fcd8e93b11.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>UseCase1</a></span>
+          <span class="label label-info"><a href='6dc55c3334e63f8aeb7cdc87a8c04f61.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Cliente</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='fe78103a359a90f2bef7f40c48bd76df.html'><span class='node-icon staruml-icon icon-UMLStateMachine'></span>StateMachine1</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='0e66c0a702d6c0c0265386330e91ddb6.html'><span class='node-icon staruml-icon icon-UMLRegion'></span>(Region)</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='c1920e8512ebf732e16a200d5ef5fefe.html'><span class='node-icon staruml-icon icon-UMLTransition'></span>(Cadastro→Cliente não cadastrado)</a></span>
         
       </section>
 
@@ -71,32 +80,31 @@
       <!-- Directed Relationship -->
 
       
+      <section class="element-list">
+        <table width="100%">
+          <tr>
+            <td width="50%">
+              <h3>Source</h3>
+              <ul class="nav nav-list">
+                <li><a href='f525e8497e76fea9a21b8c9869096bc2.html'><span class='node-icon staruml-icon icon-UMLInitialState'></span>Cadastro</a></a></li>
+              </ul>
+            </td>
+            <td width="50%">
+              <h3>Target</h3>
+              <ul class="nav nav-list">
+                <li><a href='6ddd0381f77ab39736d5df488499b28a.html'><span class='node-icon staruml-icon icon-UMLState'></span>Cliente não cadastrado</a></a></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </section>
+      
 
       <!-- Undirected Relationship -->
 
       
 
       <!-- Classifier -->
-
-      
-        
-        
-
-
-        
-        
-
-
-        
-        
-
-
-        
-        
-
-
-        
-        
 
       
 
@@ -117,18 +125,6 @@
       
 
       <!-- Use Case -->
-
-      
-        
-        
-
-
-        
-        
-
-
-        
-        
 
       
 
@@ -204,6 +200,23 @@
       <!-- Transition -->
 
       
+        
+        
+<section class="element-list">
+    <h3>Triggers</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='1475e348158e2ba0e3da8a4197937ec3.html'><span class='node-icon staruml-icon icon-UMLEvent'></span>(Event)</a></li>
+        
+    </ul>
+</section>
+
+
+
+        
+        
+
+      
 
       <!-- Data Model (ERD) -->
 
@@ -244,7 +257,7 @@
     
     <tr>
         <td>name</td>
-        <td>UseCase1</td>
+        <td></td>
     </tr>
     
     
@@ -252,6 +265,24 @@
     
     
     
+    
+    
+    
+    
+    
+    <tr>
+        <td>source</td>
+        <td><a href='f525e8497e76fea9a21b8c9869096bc2.html'><span class='node-icon staruml-icon icon-UMLInitialState'></span>Cadastro</a></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>target</td>
+        <td><a href='6ddd0381f77ab39736d5df488499b28a.html'><span class='node-icon staruml-icon icon-UMLState'></span>Cliente não cadastrado</a></td>
+    </tr>
     
     
     
@@ -275,19 +306,9 @@
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <tr>
-        <td>isAbstract</td>
-        <td><span class='label label-info'>false</span></td>
+        <td>kind</td>
+        <td>external</td>
     </tr>
     
     
@@ -295,29 +316,13 @@
     
     
     <tr>
-        <td>isFinalSpecialization</td>
-        <td><span class='label label-info'>false</span></td>
+        <td>guard</td>
+        <td>Cliente começa seu cadastro na plataforma preenchendo suas informações</td>
     </tr>
     
     
     
     
-    
-    <tr>
-        <td>isLeaf</td>
-        <td><span class='label label-info'>false</span></td>
-    </tr>
-    
-    
-    
-    
-    
-    <tr>
-        <td>extensionPoints</td>
-        <td>
-            
-        </td>
-    </tr>
     
     
     
@@ -330,18 +335,6 @@
       
 
       <!-- Constraints, Dependencies, Dependants -->
-
-      
-        
-        
-
-
-        
-        
-
-
-        
-        
 
       
 

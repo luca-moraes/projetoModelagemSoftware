@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Martel</title>
+    <title></title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../assets/css/bootstrap.css">
 <link rel="stylesheet" href="../assets/css/jquery.bonsai.css">
@@ -18,14 +18,14 @@
 
       <!-- Name Title -->
 
-      <h1>Martel</h1>
+      <h1>(unnamed)</h1>
 
       <!-- Type and Stereotype -->
 
       <section style="margin-top: .5em;">
         <span class="alert alert-info">
-          <span class="node-icon staruml-icon icon-UMLLifeline"></span>
-          UMLLifeline
+          <span class="node-icon staruml-icon icon-UMLTransition"></span>
+          UMLTransition
         </span>
         
       </section>
@@ -43,13 +43,16 @@
           <span class="label label-info"><a href='9969dad9dece5c91173a6750c183ca06.html'><span class='node-icon staruml-icon icon-UMLModel'></span>Model</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='686ae70cb1f53aba21b3ae7ea7748823.html'><span class='node-icon staruml-icon icon-UMLUseCase'></span>Cadastro</a></span>
+          <span class="label label-info"><a href='6dc55c3334e63f8aeb7cdc87a8c04f61.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Cliente</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='3e967bf63d3179433fb9c49ca9944a3e.html'><span class='node-icon staruml-icon icon-UMLInteraction'></span>Interaction2</a></span>
+          <span class="label label-info"><a href='fe78103a359a90f2bef7f40c48bd76df.html'><span class='node-icon staruml-icon icon-UMLStateMachine'></span>StateMachine1</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='eafdb858b3bc55267c1de0439ad2a4e1.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>Martel: Usuário</a></span>
+          <span class="label label-info"><a href='0e66c0a702d6c0c0265386330e91ddb6.html'><span class='node-icon staruml-icon icon-UMLRegion'></span>(Region)</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='0970a5a59fd93bfe719da5309b620c90.html'><span class='node-icon staruml-icon icon-UMLTransition'></span>(Cadastro reprovado→)</a></span>
         
       </section>
 
@@ -76,6 +79,25 @@
 
       <!-- Directed Relationship -->
 
+      
+      <section class="element-list">
+        <table width="100%">
+          <tr>
+            <td width="50%">
+              <h3>Source</h3>
+              <ul class="nav nav-list">
+                <li><a href='c426f3f8b7f018e4d5c0ceb7b4f50ec8.html'><span class='node-icon staruml-icon icon-UMLState'></span>Cadastro reprovado</a></a></li>
+              </ul>
+            </td>
+            <td width="50%">
+              <h3>Target</h3>
+              <ul class="nav nav-list">
+                <li><a href='44822341199fd6d66cebfd33d33aa51f.html'><span class='node-icon staruml-icon icon-UMLFinalState'></span>(FinalState)</a></a></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </section>
       
 
       <!-- Undirected Relationship -->
@@ -178,6 +200,14 @@
       <!-- Transition -->
 
       
+        
+        
+
+
+        
+        
+
+      
 
       <!-- Data Model (ERD) -->
 
@@ -218,7 +248,7 @@
     
     <tr>
         <td>name</td>
-        <td>Martel</td>
+        <td></td>
     </tr>
     
     
@@ -226,6 +256,24 @@
     
     
     
+    
+    
+    
+    
+    
+    <tr>
+        <td>source</td>
+        <td><a href='c426f3f8b7f018e4d5c0ceb7b4f50ec8.html'><span class='node-icon staruml-icon icon-UMLState'></span>Cadastro reprovado</a></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>target</td>
+        <td><a href='44822341199fd6d66cebfd33d33aa51f.html'><span class='node-icon staruml-icon icon-UMLFinalState'></span>(FinalState)</a></td>
+    </tr>
     
     
     
@@ -249,30 +297,23 @@
     
     
     
+    <tr>
+        <td>kind</td>
+        <td>external</td>
+    </tr>
+    
+    
+    
     
     
     <tr>
-        <td>selector</td>
+        <td>guard</td>
         <td></td>
     </tr>
     
     
     
     
-    
-    <tr>
-        <td>represent</td>
-        <td><a href='f5289a74699f85ce311ecf9d828a12fd.html'><span class='node-icon staruml-icon icon-UMLAttribute'></span>Role6</a></td>
-    </tr>
-    
-    
-    
-    
-    
-    <tr>
-        <td>isMultiInstance</td>
-        <td><span class='label label-info'>false</span></td>
-    </tr>
     
     
     
@@ -287,36 +328,11 @@
       <!-- Constraints, Dependencies, Dependants -->
 
       
-        
-        
-
-
-        
-        
-
-
-        
-        
-
-      
 
       <!-- Relationships -->
 
       
       
-<section class="element-list">
-    <h3>Relationships</h3>
-    <ul class="nav nav-list">
-        
-        <li><a href='acdcfa202146553605aafa283ea06cb5.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Usuário cadastra suas informações na plataforma (Martel→objetoMartel)</a></li>
-        
-        <li><a href='ead3b9febfcd6bb773864422493988a4.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Cadastro do cliente é liberado após a aprovação (objetoMartel→Martel)</a></li>
-        
-        <li><a href='7a4b197711bcc3dde916dbefe70d771b.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Cadastro é rejeitado, o cliente deve corrigir a documentação (objetoMartel→Martel)</a></li>
-        
-    </ul>
-</section>
-
 
 
       <!-- Owned Elements -->
