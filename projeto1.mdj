@@ -20786,9 +20786,9 @@
 														"$ref": "AAAAAAGHU45nmQl8a94="
 													},
 													"font": "Arial;13;0",
-													"left": 134.55908203125,
+													"left": 136.72998046875,
 													"top": 13,
-													"width": 142.501953125,
+													"width": 161.42431640625,
 													"height": 13,
 													"text": "CadastroSequenceDiagram"
 												},
@@ -20801,7 +20801,7 @@
 													"font": "Arial;13;1",
 													"left": 117,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -22232,9 +22232,9 @@
 														"$ref": "AAAAAAGHVAZggVhZS3s="
 													},
 													"font": "Arial;13;0",
-													"left": 151.27001953125,
+													"left": 152.72998046875,
 													"top": 357,
-													"width": 88.0009765625,
+													"width": 96.8623046875,
 													"height": 13,
 													"text": "Validar Cadastro"
 												},
@@ -22247,7 +22247,7 @@
 													"font": "Arial;13;1",
 													"left": 133,
 													"top": 357,
-													"width": 13.27001953125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "uc"
 												}
@@ -29407,9 +29407,9 @@
 														"$ref": "AAAAAAGHkYpEDLaB42k="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 156.9365234375,
+													"width": 172.25341796875,
 													"height": 13,
 													"text": "EditarPerfilSequenceDiagram"
 												},
@@ -29422,7 +29422,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -29514,9 +29514,9 @@
 														"$ref": "AAAAAAGHkYsT8riK6eE="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 181.47021484375,
+													"width": 206.96240234375,
 													"height": 13,
 													"text": "RecuperarSenhaSequenceDiagram"
 												},
@@ -29529,7 +29529,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -29621,9 +29621,9 @@
 														"$ref": "AAAAAAGHkYtVq7t9UU0="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 164.87109375,
+													"width": 184.55517578125,
 													"height": 13,
 													"text": "AlterarSenhaSequenceDiagram"
 												},
@@ -29636,7 +29636,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -29833,9 +29833,9 @@
 														"$ref": "AAAAAAGHkZPgm1mElxc="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 199.529296875,
+													"width": 222.126953125,
 													"height": 13,
 													"text": "EnviarOrdemVendaSequenceDiagram"
 												},
@@ -29848,7 +29848,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30314,9 +30314,9 @@
 														"$ref": "AAAAAAGHkZRUK10Znsw="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 165.6201171875,
+													"width": 183.09521484375,
 													"height": 13,
 													"text": "ConsultarOVSequenceDiagram"
 												},
@@ -30329,7 +30329,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30573,9 +30573,9 @@
 														"$ref": "AAAAAAGHkZI7YUoQvBc="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 208.923828125,
+													"width": 231.48974609375,
 													"height": 13,
 													"text": "EnviarOrdemCompraSequenceDiagram"
 												},
@@ -30588,7 +30588,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30711,9 +30711,9 @@
 														"$ref": "AAAAAAGHkZMLK1E6Gqg="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 160.5419921875,
+													"width": 180.20068359375,
 													"height": 13,
 													"text": "CancelarOCSequenceDiagram"
 												},
@@ -30726,7 +30726,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30831,9 +30831,9 @@
 														"$ref": "AAAAAAGHkZOQtVUXrRA="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 166.3310546875,
+													"width": 180.91162109375,
 													"height": 13,
 													"text": "ModificarOCSequenceDiagram"
 												},
@@ -30846,7 +30846,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30938,9 +30938,9 @@
 														"$ref": "AAAAAAGHkZKQWE2la0c="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 164.90283203125,
+													"width": 183.8125,
 													"height": 13,
 													"text": "ConsultarOCSequenceDiagram"
 												},
@@ -30953,7 +30953,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -31085,9 +31085,9 @@
 														"$ref": "AAAAAAGHkZERnzWal9I="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 223.2822265625,
+													"width": 247.162109375,
 													"height": 13,
 													"text": "VisualizarCarteiraAcoesSequenceDiagram"
 												},
@@ -31100,7 +31100,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -31192,9 +31192,9 @@
 														"$ref": "AAAAAAGHkY/J+Sy+gJc="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 188.70654296875,
+													"width": 209.1015625,
 													"height": 13,
 													"text": "CriarGrupoAcoesSequenceDiagram"
 												},
@@ -31207,7 +31207,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -31299,9 +31299,9 @@
 														"$ref": "AAAAAAGHkZCbFy6lHWI="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 172.0947265625,
+													"width": 191.05517578125,
 													"height": 13,
 													"text": "AgruparAcoesSequenceDiagram"
 												},
@@ -31314,7 +31314,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -31830,9 +31830,9 @@
 														"$ref": "AAAAAAGHkY4EbPwzHTU="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 195.13037109375,
+													"width": 215.373046875,
 													"height": 13,
 													"text": "VisualizarMercadoSequenceDiagram"
 												},
@@ -31845,7 +31845,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -32150,9 +32150,9 @@
 														"$ref": "AAAAAAGHkY7gVwHjFmg="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 225.5419921875,
+													"width": 251.73876953125,
 													"height": 13,
 													"text": "SimularOpcoesNegociosSequenceDiagram"
 												},
@@ -32165,7 +32165,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -42820,6 +42820,33 @@
 									"$ref": "AAAAAAGG59mjWbf6cp8="
 								}
 							}
+						},
+						{
+							"_type": "UMLStateMachine",
+							"_id": "AAAAAAGH45L1SWktpVA=",
+							"_parent": {
+								"$ref": "AAAAAAGG59OU4beJUh4="
+							},
+							"name": "StateMachine1",
+							"ownedElements": [
+								{
+									"_type": "UMLStatechartDiagram",
+									"_id": "AAAAAAGH45L1SmkvcrI=",
+									"_parent": {
+										"$ref": "AAAAAAGH45L1SWktpVA="
+									},
+									"name": "StatechartDiagramGerenteCorretora"
+								}
+							],
+							"regions": [
+								{
+									"_type": "UMLRegion",
+									"_id": "AAAAAAGH45L1SmkuO+o=",
+									"_parent": {
+										"$ref": "AAAAAAGH45L1SWktpVA="
+									}
+								}
+							]
 						}
 					],
 					"documentation": "Essa classe será usado apenas por aqueles com cargo de gerente na corretora.",
@@ -43100,6 +43127,8 @@
 												"$ref": "AAAAAAGHd9Szm82wX68="
 											},
 											"font": "Arial;13;0",
+											"left": 40,
+											"top": 16,
 											"width": 2185,
 											"height": 1609
 										},
@@ -47033,6 +47062,33 @@
 									"$ref": "AAAAAAGHLyScbhXUg3g="
 								}
 							}
+						},
+						{
+							"_type": "UMLStateMachine",
+							"_id": "AAAAAAGH45igW31x2N0=",
+							"_parent": {
+								"$ref": "AAAAAAGG5/z6Itoy2MM="
+							},
+							"name": "StateMachine1",
+							"ownedElements": [
+								{
+									"_type": "UMLStatechartDiagram",
+									"_id": "AAAAAAGH45igXH1zfMs=",
+									"_parent": {
+										"$ref": "AAAAAAGH45igW31x2N0="
+									},
+									"name": "StatechartDiagramGerenciadorApiB3"
+								}
+							],
+							"regions": [
+								{
+									"_type": "UMLRegion",
+									"_id": "AAAAAAGH45igXH1y2Es=",
+									"_parent": {
+										"$ref": "AAAAAAGH45igW31x2N0="
+									}
+								}
+							]
 						}
 					],
 					"documentation": "Essa classe será usada para gerenciar o processo de comunicação com a B3, as informações que devem ser fornecidas ou enviadas serão transmitidas através das API's da B3.",
