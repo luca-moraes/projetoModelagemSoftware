@@ -2,7 +2,7 @@
 Projeto da disciplina de modelagem orientada a objeto, disciplina lescionada pelo professor Ricardo Destro.
 
 ## Clique no link abaixo para visualizar a documentação completa:
-Link do GitPages do repositório: https://luca-moraes.github.io/projetoModelagem/html-docs/index.html
+Link para o GitPages do repositório: https://luca-moraes.github.io/projetoModelagem/html-docs/index.html
 
 ### Visualização prévia do diagrama de casos de uso:
 
