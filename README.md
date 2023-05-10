@@ -1,8 +1,8 @@
 # projetoModelagem
 Projeto da disciplina de modelagem orientada a objeto, disciplina lescionada pelo professor Ricardo Destro.
 
-## Clique aqui para visualizar a documentação completa:
-https://luca-moraes.github.io/projetoModelagem/html-docs/index.html
+## Clique no link abaixo para visualizar a documentação completa:
+Link para o Github Pages do repositório: https://luca-moraes.github.io/projetoModelagem/html-docs/index.html
 
 ### Visualização prévia do diagrama de casos de uso:
 
@@ -16,5 +16,9 @@ https://luca-moraes.github.io/projetoModelagem/html-docs/index.html
 
 ### Diagramas de sequência: Cadastro cliente:
 
-![Diagrama de classes](https://github.com/luca-moraes/projetoModelagem/blob/main/images/SequenceDiagramCadstroCliente.png)
+![Diagrama de sequência: Cadastro](https://github.com/luca-moraes/projetoModelagemSoftware/blob/main/images/sequenceDiagrams/CadstroSequenceDiagram.png)
+
+### Diagramas de sequência: Login cliente:
+
+![Diagrama de sequência: Login](https://github.com/luca-moraes/projetoModelagemSoftware/blob/main/images/sequenceDiagrams/LoginSequenceDiagram.png)
 
