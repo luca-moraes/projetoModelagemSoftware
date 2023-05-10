@@ -965,7 +965,7 @@
 									"font": "Arial;13;0",
 									"left": 985,
 									"top": 324.5,
-									"width": 82.236328125,
+									"width": 82,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGn2vF+aVz1v8="
@@ -1164,7 +1164,7 @@
 									"font": "Arial;13;0",
 									"left": 896,
 									"top": 276.5,
-									"width": 115.49169921875,
+									"width": 115,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGn2xmQKWlzBo="
@@ -1363,7 +1363,7 @@
 									"font": "Arial;13;0",
 									"left": 1043.5,
 									"top": 380.5,
-									"width": 93.0908203125,
+									"width": 92,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGn22XGKXdXrU="
@@ -3112,7 +3112,7 @@
 									"font": "Arial;13;0",
 									"left": 551.5,
 									"top": 332.5,
-									"width": 112.59716796875,
+									"width": 112,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGn81uTrx1JFA="
@@ -5477,7 +5477,7 @@
 									"font": "Arial;13;0",
 									"left": 1282,
 									"top": 460.5,
-									"width": 162.43896484375,
+									"width": 161,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw3ABmAHAxtU="
@@ -5676,7 +5676,7 @@
 									"font": "Arial;13;0",
 									"left": 1493,
 									"top": 572.5,
-									"width": 177.6162109375,
+									"width": 177,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw3BSwAOSZLw="
@@ -5875,7 +5875,7 @@
 									"font": "Arial;13;0",
 									"left": 1477.5,
 									"top": 660.5,
-									"width": 180.47900390625,
+									"width": 180,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw3B30AVkclM="
@@ -6074,7 +6074,7 @@
 									"font": "Arial;13;0",
 									"left": 1379,
 									"top": 508.5,
-									"width": 283.0634765625,
+									"width": 282,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw3ChWAc2CLs="
@@ -7369,7 +7369,7 @@
 									"font": "Arial;13;0",
 									"left": 1141.5,
 									"top": 1356.5,
-									"width": 180.3076171875,
+									"width": 179,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw5MKlUCYg44="
@@ -7842,7 +7842,7 @@
 									"font": "Arial;13;0",
 									"left": 1029,
 									"top": 1396.5,
-									"width": 140.0380859375,
+									"width": 140,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw6ADnaae7h8="
@@ -8315,7 +8315,7 @@
 									"font": "Arial;13;0",
 									"left": 899.5,
 									"top": 1436.5,
-									"width": 170.4052734375,
+									"width": 169,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw6Zmw9Xledw="
@@ -9186,7 +9186,7 @@
 									"font": "Arial;13;0",
 									"left": 1535,
 									"top": 300.5,
-									"width": 186.25537109375,
+									"width": 185,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw7bLi0iS3qM="
@@ -9385,7 +9385,7 @@
 									"font": "Arial;13;0",
 									"left": 1656,
 									"top": 340.5,
-									"width": 154.47265625,
+									"width": 154,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw7eFQlLqSUs="
@@ -9964,7 +9964,7 @@
 									"font": "Arial;13;0",
 									"left": 1725,
 									"top": 388.5,
-									"width": 217.314453125,
+									"width": 217,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw7kLu9ROoiI="
@@ -10258,7 +10258,7 @@
 									"font": "Arial;13;0",
 									"left": 2086,
 									"top": 1036.5,
-									"width": 105.341796875,
+									"width": 104,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw7rig2JG9Ok="
@@ -10457,7 +10457,7 @@
 									"font": "Arial;13;0",
 									"left": 2060.5,
 									"top": 996.5,
-									"width": 97.42626953125,
+									"width": 96,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw7rlGmRxhTA="
@@ -10656,7 +10656,7 @@
 									"font": "Arial;13;0",
 									"left": 2086.5,
 									"top": 1132.5,
-									"width": 185.5380859375,
+									"width": 185,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw7rocmac6pY="
@@ -10855,7 +10855,7 @@
 									"font": "Arial;13;0",
 									"left": 2096,
 									"top": 1084.5,
-									"width": 153.75537109375,
+									"width": 153,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw7rrUmjHndI="
@@ -11054,7 +11054,7 @@
 									"font": "Arial;13;0",
 									"left": 2005,
 									"top": 1188.5,
-									"width": 216.59716796875,
+									"width": 216,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw7ruqmry9o4="
@@ -11728,7 +11728,7 @@
 									"font": "Arial;13;0",
 									"left": 1885.5,
 									"top": 596.5,
-									"width": 141.498046875,
+									"width": 141,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw87Ubw7Kgsk="
@@ -12297,7 +12297,7 @@
 									"font": "Arial;13;0",
 									"left": 2137,
 									"top": 508.5,
-									"width": 158.103515625,
+									"width": 157,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw9pk/aIn2K4="
@@ -12862,7 +12862,7 @@
 									"font": "Arial;13;0",
 									"left": 1833.5,
 									"top": 236.5,
-									"width": 121.24267578125,
+									"width": 120,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw+7FM239mac="
@@ -14194,7 +14194,7 @@
 									"font": "Arial;13;0",
 									"left": 2232,
 									"top": 580.5,
-									"width": 153.76806640625,
+									"width": 153,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG02PJtGPFrKU="
@@ -14953,7 +14953,7 @@
 									"font": "Arial;13;0",
 									"left": 1352,
 									"top": 1436.5,
-									"width": 192.06982421875,
+									"width": 191,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1uuxsUgvL+k="
@@ -15162,7 +15162,7 @@
 									"font": "Arial;13;0",
 									"left": 667,
 									"top": 788.5,
-									"width": 128.26318359375,
+									"width": 127,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1wdluecTdHg="
@@ -15361,7 +15361,7 @@
 									"font": "Arial;13;0",
 									"left": 657.5,
 									"top": 476.5,
-									"width": 121.47119140625,
+									"width": 120,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1wh2Tg8Lwp4="
@@ -15652,7 +15652,7 @@
 									"font": "Arial;13;0",
 									"left": 300,
 									"top": 716.5,
-									"width": 212.10302734375,
+									"width": 211,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1w9Or2thkGw="
@@ -15846,7 +15846,7 @@
 									"font": "Arial;13;0",
 									"left": 339.5,
 									"top": 900.5,
-									"width": 171.5986328125,
+									"width": 171,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1w+dbHchj5c="
@@ -16045,7 +16045,7 @@
 									"font": "Arial;13;0",
 									"left": 118,
 									"top": 796.5,
-									"width": 144.8876953125,
+									"width": 144,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1xBHsZnIsWE="
@@ -16898,7 +16898,7 @@
 									"font": "Arial;13;0",
 									"left": 545,
 									"top": 1140.5,
-									"width": 157.4052734375,
+									"width": 156,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1xGifk6b0+s="
@@ -17371,7 +17371,7 @@
 									"font": "Arial;13;0",
 									"left": 596.5,
 									"top": 628.5,
-									"width": 136.4072265625,
+									"width": 135,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1xOGGGy04OE="
@@ -17844,7 +17844,7 @@
 									"font": "Arial;13;0",
 									"left": 157,
 									"top": 612.5,
-									"width": 294.654296875,
+									"width": 294,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1xbQVw4cFHE="
@@ -18138,7 +18138,7 @@
 									"font": "Arial;13;0",
 									"left": 465,
 									"top": 964.5,
-									"width": 197.12255859375,
+									"width": 196,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1xkLWHxfPZ8="
@@ -18334,7 +18334,7 @@
 									"font": "Arial;13;0",
 									"left": 679,
 									"top": 1196.5,
-									"width": 186.26806640625,
+									"width": 185,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGG1x1KKKYd8tI="
@@ -19071,9 +19071,9 @@
 														"$ref": "AAAAAAGHU+Ipz01vpsA="
 													},
 													"font": "Arial;13;0",
-													"left": 40.72998046875,
+													"left": 38.55908203125,
 													"top": 13,
-													"width": 140.4833984375,
+													"width": 127.34375,
 													"height": 13,
 													"text": "LoginSequenceDiagram"
 												},
@@ -19086,7 +19086,7 @@
 													"font": "Arial;13;1",
 													"left": 21,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -19504,9 +19504,9 @@
 														"$ref": "AAAAAAGHVARTolg51z8="
 													},
 													"font": "Arial;13;0",
-													"left": 184.72998046875,
+													"left": 183.27001953125,
 													"top": 341,
-													"width": 32.80810546875,
+													"width": 32.052734375,
 													"height": 13,
 													"text": "Login"
 												},
@@ -19519,7 +19519,7 @@
 													"font": "Arial;13;1",
 													"left": 165,
 													"top": 341,
-													"width": 14.72998046875,
+													"width": 13.27001953125,
 													"height": 13,
 													"text": "uc"
 												}
@@ -20786,9 +20786,9 @@
 														"$ref": "AAAAAAGHU45nmQl8a94="
 													},
 													"font": "Arial;13;0",
-													"left": 136.72998046875,
+													"left": 134.55908203125,
 													"top": 13,
-													"width": 161.42431640625,
+													"width": 142.501953125,
 													"height": 13,
 													"text": "CadastroSequenceDiagram"
 												},
@@ -20801,7 +20801,7 @@
 													"font": "Arial;13;1",
 													"left": 117,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -22232,9 +22232,9 @@
 														"$ref": "AAAAAAGHVAZggVhZS3s="
 													},
 													"font": "Arial;13;0",
-													"left": 152.72998046875,
+													"left": 151.27001953125,
 													"top": 357,
-													"width": 96.8623046875,
+													"width": 88.0009765625,
 													"height": 13,
 													"text": "Validar Cadastro"
 												},
@@ -22247,7 +22247,7 @@
 													"font": "Arial;13;1",
 													"left": 133,
 													"top": 357,
-													"width": 14.72998046875,
+													"width": 13.27001953125,
 													"height": 13,
 													"text": "uc"
 												}
@@ -27559,7 +27559,7 @@
 															"left": 141,
 															"top": 1655,
 															"width": 191,
-															"height": 52,
+															"height": 39,
 															"text": "Cliente corrige as informações solicitadas para enviar novamente uma tentativa de cadastro",
 															"wordWrap": true
 														},
@@ -27595,7 +27595,7 @@
 													"left": 136,
 													"top": 1648,
 													"width": 201,
-													"height": 64,
+													"height": 51,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAGHnB0hNn4ffEw="
 													},
@@ -27682,7 +27682,7 @@
 															"left": 1349,
 															"top": 1391,
 															"width": 151,
-															"height": 52,
+															"height": 39,
 															"text": "Gera um comprovante de situação cadastral válido para o CPF informado",
 															"wordWrap": true
 														},
@@ -27718,7 +27718,7 @@
 													"left": 1344,
 													"top": 1384,
 													"width": 161,
-													"height": 64,
+													"height": 51,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAGHm/RWcVM4GLk="
 													},
@@ -29407,9 +29407,9 @@
 														"$ref": "AAAAAAGHkYpEDLaB42k="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 172.25341796875,
+													"width": 156.9365234375,
 													"height": 13,
 													"text": "EditarPerfilSequenceDiagram"
 												},
@@ -29422,7 +29422,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -29514,9 +29514,9 @@
 														"$ref": "AAAAAAGHkYsT8riK6eE="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 206.96240234375,
+													"width": 181.47021484375,
 													"height": 13,
 													"text": "RecuperarSenhaSequenceDiagram"
 												},
@@ -29529,7 +29529,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -29621,9 +29621,9 @@
 														"$ref": "AAAAAAGHkYtVq7t9UU0="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 184.55517578125,
+													"width": 164.87109375,
 													"height": 13,
 													"text": "AlterarSenhaSequenceDiagram"
 												},
@@ -29636,7 +29636,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -29833,9 +29833,9 @@
 														"$ref": "AAAAAAGHkZPgm1mElxc="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 222.126953125,
+													"width": 199.529296875,
 													"height": 13,
 													"text": "EnviarOrdemVendaSequenceDiagram"
 												},
@@ -29848,7 +29848,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -29993,9 +29993,9 @@
 														"$ref": "AAAAAAGHkZTHMGNrxi8="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 180.1943359375,
+													"width": 167.04833984375,
 													"height": 13,
 													"text": "ModificarOVSequenceDiagram"
 												},
@@ -30008,7 +30008,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30180,9 +30180,9 @@
 														"$ref": "AAAAAAGHkZSO0F/WPCU="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 179.4833984375,
+													"width": 161.25927734375,
 													"height": 13,
 													"text": "CancelarOVSequenceDiagram"
 												},
@@ -30195,7 +30195,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30314,9 +30314,9 @@
 														"$ref": "AAAAAAGHkZRUK10Znsw="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 183.09521484375,
+													"width": 165.6201171875,
 													"height": 13,
 													"text": "ConsultarOVSequenceDiagram"
 												},
@@ -30329,7 +30329,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30573,9 +30573,9 @@
 														"$ref": "AAAAAAGHkZI7YUoQvBc="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 231.48974609375,
+													"width": 208.923828125,
 													"height": 13,
 													"text": "EnviarOrdemCompraSequenceDiagram"
 												},
@@ -30588,7 +30588,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30711,9 +30711,9 @@
 														"$ref": "AAAAAAGHkZMLK1E6Gqg="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 180.20068359375,
+													"width": 160.5419921875,
 													"height": 13,
 													"text": "CancelarOCSequenceDiagram"
 												},
@@ -30726,7 +30726,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30831,9 +30831,9 @@
 														"$ref": "AAAAAAGHkZOQtVUXrRA="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 180.91162109375,
+													"width": 166.3310546875,
 													"height": 13,
 													"text": "ModificarOCSequenceDiagram"
 												},
@@ -30846,7 +30846,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30938,9 +30938,9 @@
 														"$ref": "AAAAAAGHkZKQWE2la0c="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 183.8125,
+													"width": 164.90283203125,
 													"height": 13,
 													"text": "ConsultarOCSequenceDiagram"
 												},
@@ -30953,7 +30953,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -31085,9 +31085,9 @@
 														"$ref": "AAAAAAGHkZERnzWal9I="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 247.162109375,
+													"width": 223.2822265625,
 													"height": 13,
 													"text": "VisualizarCarteiraAcoesSequenceDiagram"
 												},
@@ -31100,7 +31100,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -31192,9 +31192,9 @@
 														"$ref": "AAAAAAGHkY/J+Sy+gJc="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 209.1015625,
+													"width": 188.70654296875,
 													"height": 13,
 													"text": "CriarGrupoAcoesSequenceDiagram"
 												},
@@ -31207,7 +31207,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -31299,9 +31299,9 @@
 														"$ref": "AAAAAAGHkZCbFy6lHWI="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 191.05517578125,
+													"width": 172.0947265625,
 													"height": 13,
 													"text": "AgruparAcoesSequenceDiagram"
 												},
@@ -31314,7 +31314,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -31830,9 +31830,9 @@
 														"$ref": "AAAAAAGHkY4EbPwzHTU="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 215.373046875,
+													"width": 195.13037109375,
 													"height": 13,
 													"text": "VisualizarMercadoSequenceDiagram"
 												},
@@ -31845,7 +31845,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -32016,9 +32016,9 @@
 														"$ref": "AAAAAAGHkY6Jjf8LcTU="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 219.2197265625,
+													"width": 198.07568359375,
 													"height": 13,
 													"text": "CriarAlertaCotacaoSequenceDiagram"
 												},
@@ -32031,7 +32031,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -32150,9 +32150,9 @@
 														"$ref": "AAAAAAGHkY7gVwHjFmg="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 251.73876953125,
+													"width": 225.5419921875,
 													"height": 13,
 													"text": "SimularOpcoesNegociosSequenceDiagram"
 												},
@@ -32165,7 +32165,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -32204,8 +32204,8 @@
 								"$ref": "AAAAAAGG59M3tLbAQ5c="
 							},
 							"font": "Arial;13;0",
-							"left": 560,
-							"top": 128,
+							"left": 568,
+							"top": 112,
 							"width": 2265,
 							"height": 1418
 						},
@@ -32655,7 +32655,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 272,
+											"left": 256,
 											"top": 368,
 											"height": 13
 										},
@@ -32666,7 +32666,7 @@
 												"$ref": "AAAAAAGG59OU4reMHZc="
 											},
 											"font": "Arial;13;1",
-											"left": 1013,
+											"left": 1005,
 											"top": 567,
 											"width": 218.6005859375,
 											"height": 13,
@@ -32680,7 +32680,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 272,
+											"left": 256,
 											"top": 368,
 											"width": 138.7216796875,
 											"height": 13,
@@ -32694,14 +32694,14 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 272,
+											"left": 256,
 											"top": 368,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 1008,
+									"left": 1000,
 									"top": 560,
 									"width": 228.6005859375,
 									"height": 25,
@@ -32738,7 +32738,7 @@
 												"$ref": "AAAAAAGG5+bEPrtvpKw="
 											},
 											"font": "Arial;13;0",
-											"left": 1013,
+											"left": 1005,
 											"top": 590,
 											"width": 218.6005859375,
 											"height": 13,
@@ -32755,7 +32755,7 @@
 												"$ref": "AAAAAAGG5+ep87y68E0="
 											},
 											"font": "Arial;13;0",
-											"left": 1013,
+											"left": 1005,
 											"top": 605,
 											"width": 218.6005859375,
 											"height": 13,
@@ -32764,7 +32764,7 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 1008,
+									"left": 1000,
 									"top": 585,
 									"width": 228.6005859375,
 									"height": 38
@@ -32789,7 +32789,7 @@
 												"$ref": "AAAAAAGG59iSCbflQTc="
 											},
 											"font": "Arial;13;0",
-											"left": 1013,
+											"left": 1005,
 											"top": 628,
 											"width": 218.6005859375,
 											"height": 13,
@@ -32798,7 +32798,7 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 1008,
+									"left": 1000,
 									"top": 623,
 									"width": 228.6005859375,
 									"height": 23
@@ -32814,7 +32814,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 136,
+									"left": 128,
 									"top": 184,
 									"width": 10,
 									"height": 10
@@ -32830,7 +32830,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 136,
+									"left": 128,
 									"top": 184,
 									"width": 10,
 									"height": 10
@@ -32838,7 +32838,7 @@
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 1008,
+							"left": 1000,
 							"top": 560,
 							"width": 228.6005859375,
 							"height": 120,
@@ -33399,7 +33399,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1179,
+									"left": 1174,
 									"top": 513,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -33420,8 +33420,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1167,
-									"top": 504,
+									"left": 1162,
+									"top": 503,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -33441,7 +33441,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1202,
+									"left": 1197,
 									"top": 532,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -33460,7 +33460,7 @@
 								"$ref": "AAAAAAGG59OU4beLK5w="
 							},
 							"lineStyle": 1,
-							"points": "1168:559;1215:499",
+							"points": "1162:559;1211:499",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGG59nzWbgonQQ="
@@ -33586,7 +33586,7 @@
 										"$ref": "AAAAAAGG5+KRRrhaGZg="
 									},
 									"font": "Arial;13;0",
-									"left": 1334,
+									"left": 1330,
 									"top": 601,
 									"width": 57.458984375,
 									"height": 13,
@@ -33609,7 +33609,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1362,
+									"left": 1358,
 									"top": 586,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -33630,7 +33630,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1361,
+									"left": 1357,
 									"top": 630,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -33650,8 +33650,8 @@
 										"$ref": "AAAAAAGG5+KRRrhbKb8="
 									},
 									"font": "Arial;13;0",
-									"left": 1256,
-									"top": 600,
+									"left": 1248,
+									"top": 599,
 									"width": 14.82177734375,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -33673,8 +33673,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1265,
-									"top": 587,
+									"left": 1257,
+									"top": 586,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -33694,8 +33694,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1258,
-									"top": 627,
+									"left": 1250,
+									"top": 626,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -33806,7 +33806,7 @@
 								"$ref": "AAAAAAGG59OU4beLK5w="
 							},
 							"lineStyle": 1,
-							"points": "1237:621;1487:624",
+							"points": "1229:620;1487:624",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGG5+KRR7hf0FM="
@@ -42521,6 +42521,7 @@
 								"$ref": "AAAAAAGG59NdQrdfDjE="
 							},
 							"name": "senha",
+							"documentation": "Este atributo guarda um hash da senha.",
 							"type": "string"
 						},
 						{
@@ -42530,6 +42531,7 @@
 								"$ref": "AAAAAAGG59NdQrdfDjE="
 							},
 							"name": "nome",
+							"documentation": "Este atributo guarda o nome.",
 							"type": "string"
 						},
 						{
@@ -42539,6 +42541,7 @@
 								"$ref": "AAAAAAGG59NdQrdfDjE="
 							},
 							"name": "email",
+							"documentation": "Este atributo guarda o email.",
 							"type": "string"
 						},
 						{
@@ -42548,6 +42551,7 @@
 								"$ref": "AAAAAAGG59NdQrdfDjE="
 							},
 							"name": "cpf",
+							"documentation": "Este atributo guarda o cpf.",
 							"type": "string"
 						},
 						{
@@ -42557,6 +42561,7 @@
 								"$ref": "AAAAAAGG59NdQrdfDjE="
 							},
 							"name": "telefone",
+							"documentation": "Este atributo guarda o telefone.",
 							"type": "string"
 						}
 					],
@@ -42858,6 +42863,7 @@
 								"$ref": "AAAAAAGG59OU4beJUh4="
 							},
 							"name": "listaClientes",
+							"documentation": "Este atributo guarda a lista clientes cadastrados.",
 							"type": "list<Cliente>"
 						},
 						{
@@ -42867,6 +42873,7 @@
 								"$ref": "AAAAAAGG59OU4beJUh4="
 							},
 							"name": "pedidosCadastro",
+							"documentation": "Este atributo guarda a lista de pedidos de cadastro.",
 							"type": "list<UsuarioBase>"
 						}
 					],
@@ -42929,6 +42936,7 @@
 								"$ref": "AAAAAAGG59mjWbf6cp8="
 							},
 							"name": "possui",
+							"documentation": "Este atributo guarda o login.",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAGHLwOe00buEbI=",
@@ -46324,6 +46332,7 @@
 								"$ref": "AAAAAAGG59mjWbf6cp8="
 							},
 							"name": "saldo",
+							"documentation": "Este atributo guarda o saldo do cliente.",
 							"type": "float"
 						},
 						{
@@ -46333,6 +46342,7 @@
 								"$ref": "AAAAAAGG59mjWbf6cp8="
 							},
 							"name": "ordensCompra",
+							"documentation": "Este atributo guarda a lista de OC.",
 							"type": "list<OrdemCompra>"
 						},
 						{
@@ -46342,6 +46352,7 @@
 								"$ref": "AAAAAAGG59mjWbf6cp8="
 							},
 							"name": "ordensVenda",
+							"documentation": "Este atributo guarda a lista de OV.",
 							"type": "list<OrdemVenda>"
 						},
 						{
@@ -46351,6 +46362,7 @@
 								"$ref": "AAAAAAGG59mjWbf6cp8="
 							},
 							"name": "carteiraAcoes",
+							"documentation": "Este atributo guarda a lista de ações em carteira.",
 							"type": "list<Acoes>"
 						},
 						{
@@ -46360,6 +46372,7 @@
 								"$ref": "AAAAAAGG59mjWbf6cp8="
 							},
 							"name": "alertas",
+							"documentation": "Este atributo guarda a lista de alertas criados.",
 							"type": "list<AlertaCotacao>"
 						}
 					],
@@ -46761,6 +46774,7 @@
 								"$ref": "AAAAAAGG5/EDMr+Yc9M="
 							},
 							"name": "acao",
+							"documentation": "Este atributo guarda a ação a que se refere a OC.",
 							"type": {
 								"$ref": "AAAAAAGHLyScbhXUg3g="
 							}
@@ -46772,6 +46786,7 @@
 								"$ref": "AAAAAAGG5/EDMr+Yc9M="
 							},
 							"name": "valorTotalOrdemCompra",
+							"documentation": "Este atributo guarda o valor total da OC.",
 							"type": "float"
 						},
 						{
@@ -46781,6 +46796,7 @@
 								"$ref": "AAAAAAGG5/EDMr+Yc9M="
 							},
 							"name": "dataCompra",
+							"documentation": "Este atributo guarda a data da compra.",
 							"type": "DateTime"
 						}
 					],
@@ -46837,6 +46853,7 @@
 								"$ref": "AAAAAAGG5/GbCsKHB1w="
 							},
 							"name": "quantidade",
+							"documentation": "Este atributo guarda a quantidade de ações da OC.",
 							"type": "int"
 						},
 						{
@@ -46846,6 +46863,7 @@
 								"$ref": "AAAAAAGG5/GbCsKHB1w="
 							},
 							"name": "valorGatilho",
+							"documentation": "Este atributo guarda o valor do gatilho da OC.",
 							"type": "float"
 						}
 					]
@@ -46881,6 +46899,7 @@
 								"$ref": "AAAAAAGG5/Ha0sOLwTk="
 							},
 							"name": "quantidade",
+							"documentation": "Este atributo guarda a quantidade de ações da OC.",
 							"type": "int"
 						}
 					]
@@ -46916,6 +46935,7 @@
 								"$ref": "AAAAAAGG5/Jv9chbouY="
 							},
 							"name": "quantidade",
+							"documentation": "Este atributo guarda a quantidade de ações da OC.",
 							"type": "int"
 						}
 					]
@@ -46951,6 +46971,7 @@
 								"$ref": "AAAAAAGG5/MRC8rddYI="
 							},
 							"name": "valorFinanceiro",
+							"documentation": "Este atributo guarda o valor financeiro da OC.",
 							"type": "float"
 						}
 					]
@@ -46986,6 +47007,7 @@
 								"$ref": "AAAAAAGG5/NTOsvQ2WQ="
 							},
 							"name": "valorFracionado",
+							"documentation": "Este atributo guarda o valor fracionado da OC.",
 							"type": "float"
 						}
 					]
@@ -47021,6 +47043,7 @@
 								"$ref": "AAAAAAGG5/PAYs1TJNs="
 							},
 							"name": "quantidadeLotes",
+							"documentation": "Este atributo guarda a quantidade de lotes da da OC.",
 							"type": "int"
 						}
 					]
@@ -47100,6 +47123,7 @@
 								"$ref": "AAAAAAGG5/z6Itoy2MM="
 							},
 							"name": "apiURL",
+							"documentation": "Este atributo guarda a URL de um endpoint da B3.",
 							"type": "string"
 						},
 						{
@@ -47109,6 +47133,7 @@
 								"$ref": "AAAAAAGG5/z6Itoy2MM="
 							},
 							"name": "apiToken",
+							"documentation": "Este atributo guarda um token para validar e autorizar o uso das API's da B3.",
 							"type": "string"
 						}
 					],
@@ -47374,6 +47399,7 @@
 								"$ref": "AAAAAAGHLu1VbZ5+deA="
 							},
 							"name": "acao",
+							"documentation": "Este atributo guarda a ação a que se refere a OV.",
 							"type": {
 								"$ref": "AAAAAAGHLyScbhXUg3g="
 							}
@@ -47385,6 +47411,7 @@
 								"$ref": "AAAAAAGHLu1VbZ5+deA="
 							},
 							"name": "valorTotalOrdemVenda",
+							"documentation": "Este atributo guarda o valor total da OV.",
 							"type": "float"
 						},
 						{
@@ -47394,6 +47421,7 @@
 								"$ref": "AAAAAAGHLu1VbZ5+deA="
 							},
 							"name": "dataVenda",
+							"documentation": "Este atributo guarda a data da venda.",
 							"type": "DateTime"
 						}
 					]
@@ -47457,6 +47485,7 @@
 								"$ref": "AAAAAAGHLu1/FJ7SO8M="
 							},
 							"name": "quantidade",
+							"documentation": "Este atributo guarda a quantidade de ações da OV.",
 							"type": "int"
 						},
 						{
@@ -47466,6 +47495,7 @@
 								"$ref": "AAAAAAGHLu1/FJ7SO8M="
 							},
 							"name": "valorGatilho",
+							"documentation": "Este atributo guarda o valor do gatilho da OV.",
 							"type": "float"
 						}
 					]
@@ -47529,6 +47559,7 @@
 								"$ref": "AAAAAAGHLu2jB58mNX0="
 							},
 							"name": "quantidade",
+							"documentation": "Este atributo guarda a quantidade de ações da OV.",
 							"type": "int"
 						}
 					]
@@ -47592,6 +47623,7 @@
 								"$ref": "AAAAAAGHLu3P8J96BXQ="
 							},
 							"name": "quantidade",
+							"documentation": "Este atributo guarda a quantidade de ações da OV.",
 							"type": "int"
 						}
 					]
@@ -47655,6 +47687,7 @@
 								"$ref": "AAAAAAGHLu3tGJ/OjDM="
 							},
 							"name": "valorFinanceiro",
+							"documentation": "Este atributo guarda o valor financeiro da OV.",
 							"type": "float"
 						}
 					]
@@ -47718,6 +47751,7 @@
 								"$ref": "AAAAAAGHLu4lAKAigsc="
 							},
 							"name": "valorFracionado",
+							"documentation": "Este atributo guarda o valor fracionado da OV.",
 							"type": "float"
 						}
 					]
@@ -47781,6 +47815,7 @@
 								"$ref": "AAAAAAGHLu5x2qLnd1A="
 							},
 							"name": "quantidadeLotes",
+							"documentation": "Este atributo guarda a quantidade de lotes da da OV.",
 							"type": "int"
 						}
 					]
@@ -47896,6 +47931,7 @@
 								"$ref": "AAAAAAGHLyScbhXUg3g="
 							},
 							"name": "nomeAtivo",
+							"documentation": "Este atributo guarda a nome da ação.",
 							"type": "string"
 						},
 						{
@@ -47905,6 +47941,7 @@
 								"$ref": "AAAAAAGHLyScbhXUg3g="
 							},
 							"name": "codigoAtivo",
+							"documentation": "Este atributo guarda o código pelo qual a ação é listada na bolsa.",
 							"type": "string"
 						},
 						{
@@ -47914,6 +47951,7 @@
 								"$ref": "AAAAAAGHLyScbhXUg3g="
 							},
 							"name": "cotacao",
+							"documentation": "Este atributo guarda o valor de cotação da ação.",
 							"type": "float"
 						},
 						{
@@ -47923,6 +47961,7 @@
 								"$ref": "AAAAAAGHLyScbhXUg3g="
 							},
 							"name": "historicoValores",
+							"documentation": "Este atributo guarda uma lista com o histórico de candles da ação.",
 							"type": "list<Candles>"
 						}
 					]
@@ -47943,6 +47982,7 @@
 								"$ref": "AAAAAAGHLyj3YEpr8wM="
 							},
 							"name": "abertura",
+							"documentation": "Este atributo guarda a abertura do candle.",
 							"type": "float"
 						},
 						{
@@ -47952,6 +47992,7 @@
 								"$ref": "AAAAAAGHLyj3YEpr8wM="
 							},
 							"name": "fechamento",
+							"documentation": "Este atributo guarda o fechamento do candle.",
 							"type": "float"
 						},
 						{
@@ -47961,6 +48002,7 @@
 								"$ref": "AAAAAAGHLyj3YEpr8wM="
 							},
 							"name": "maxima",
+							"documentation": "Este atributo guarda o valor máximo do candle.",
 							"type": "float"
 						},
 						{
@@ -47970,6 +48012,7 @@
 								"$ref": "AAAAAAGHLyj3YEpr8wM="
 							},
 							"name": "minima",
+							"documentation": "Este atributo guarda o valor mínimo do candle.",
 							"type": "float"
 						},
 						{
@@ -47979,6 +48022,7 @@
 								"$ref": "AAAAAAGHLyj3YEpr8wM="
 							},
 							"name": "tipoCandle",
+							"documentation": "Este atributo guarda o tipo do candle, positivo ou negativo.",
 							"type": "string"
 						},
 						{
@@ -47988,6 +48032,7 @@
 								"$ref": "AAAAAAGHLyj3YEpr8wM="
 							},
 							"name": "dateTimeAbertura",
+							"documentation": "Este atributo guarda a data de abertura do candle.",
 							"type": "DateTime"
 						},
 						{
@@ -47997,6 +48042,7 @@
 								"$ref": "AAAAAAGHLyj3YEpr8wM="
 							},
 							"name": "dateTimeFechamento",
+							"documentation": "Este atributo guarda a data de fechamento do candle.",
 							"type": "DateTime"
 						}
 					]
@@ -48050,6 +48096,7 @@
 								"$ref": "AAAAAAGHLy+UJPZgguM="
 							},
 							"name": "nomeGrupo",
+							"documentation": "Este atributo guarda um nome para um grupo de ações.",
 							"type": "string"
 						},
 						{
@@ -48059,6 +48106,7 @@
 								"$ref": "AAAAAAGHLy+UJPZgguM="
 							},
 							"name": "acoes",
+							"documentation": "Este atributo guarda a lista das ações que pertencem aquele grupo.",
 							"type": "list<Acao>"
 						}
 					]
@@ -48203,6 +48251,7 @@
 								"$ref": "AAAAAAGHL0qJ1vceZBI="
 							},
 							"name": "acao",
+							"documentation": "Este atributo guarda a ação que o alerta deve monitorar.",
 							"type": {
 								"$ref": "AAAAAAGHLyScbhXUg3g="
 							}
@@ -48214,6 +48263,7 @@
 								"$ref": "AAAAAAGHL0qJ1vceZBI="
 							},
 							"name": "cotacaoDesejada",
+							"documentation": "Este atributo guarda a valor desejado para ativação de um alerta.",
 							"type": "float"
 						}
 					],
