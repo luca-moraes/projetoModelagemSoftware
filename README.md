@@ -16,5 +16,9 @@ https://luca-moraes.github.io/projetoModelagem/html-docs/index.html
 
 ### Diagramas de sequência: Cadastro cliente:
 
-![Diagrama de classes](https://github.com/luca-moraes/projetoModelagem/blob/main/images/SequenceDiagramCadstroCliente.png)
+![Diagrama de sequência: Cadastro](https://github.com/luca-moraes/projetoModelagemSoftware/blob/main/images/sequenceDiagrams/CadstroSequenceDiagram.png)
+
+### Diagramas de sequência: Login cliente:
+
+![Diagrama de sequência: Login](https://github.com/luca-moraes/projetoModelagemSoftware/blob/main/images/sequenceDiagrams/LoginSequenceDiagram.png)
 
